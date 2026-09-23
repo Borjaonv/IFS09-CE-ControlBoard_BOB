@@ -2,7 +2,7 @@
 
 # IFS09-ES_ControlBoard_BOB
 
-Embedded firmware for the ControlBoard of the IFS09.
+Hardware design, KiCad schematics and PCB layout for the IFS09 Control board (ISC Formula Student 2026/27).
 
 [![Formula Student](https://img.shields.io/badge/Formula%20Student-ISC-yellow.svg)](https://www.comillas.edu/)
 [![Season](https://img.shields.io/badge/Season-2026%2F2027-blue.svg)]()
