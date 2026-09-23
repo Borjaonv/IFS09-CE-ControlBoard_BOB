@@ -6,6 +6,7 @@ Hardware design, KiCad schematics and PCB layout for the IFS09 Control board (IS
 
 [![Formula Student](https://img.shields.io/badge/Formula%20Student-ISC-yellow.svg)](https://www.comillas.edu/)
 [![Season](https://img.shields.io/badge/Season-2026%2F2027-blue.svg)]()
+[![Hardware](https://img.shields.io/badge/EDA-KiCad%208.x%2F10.x-orange.svg)]()
 
 
 ---
