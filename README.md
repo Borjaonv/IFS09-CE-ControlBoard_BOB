@@ -4,6 +4,10 @@
 
 Embedded firmware for the ControlBoard of the IFS09.
 
+[![Formula Student](https://img.shields.io/badge/Formula%20Student-ISC-yellow.svg)](https://www.comillas.edu/)
+[![Season](https://img.shields.io/badge/Season-2026%2F2027-blue.svg)]()
+
+
 ---
 
 ## Getting started
